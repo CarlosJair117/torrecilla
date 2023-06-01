@@ -1,0 +1,12 @@
+.box{
+    background-color: #0f9bf6;
+}
+.imagen{
+    max-width: 25vw;
+    max-height: 40vh;
+}
+ 
+p{
+    color: white;
+    font-weight: bold;
+}

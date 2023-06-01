@@ -1,0 +1,22 @@
+.boxes{
+    background-color: #f8f8f8;
+    display: block;
+    max-width: 100%;
+    margin: 0;
+}
+
+.texto-carrusel{
+    color: #0f9bf6;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+
+img {
+    max-height: 200px;
+    /* object-fit: cover; */
+}
+
+.center{
+    padding: auto;
+}

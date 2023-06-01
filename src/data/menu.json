@@ -1,0 +1,118 @@
+[
+    {
+        "numero": 1,
+        "opcion":"Proyecto eléctrico"
+    },
+    {
+        "numero": 2,
+        "opcion":"Estudios de corto circuito"
+    },
+    {
+        "numero": 3,
+        "opcion":"Planos eléctricos"
+    },
+    {
+        "numero": 4,
+        "opcion":"Instalación de reguladores en media y baja tensión"
+    },
+    {
+        "numero": 5,
+        "opcion":"Instalación de transformadores en media y baja tensión"
+    },
+    {
+        "numero": 6,
+        "opcion":"Instalación de cableado en media y baja tensión"
+    },
+    {
+        "numero": 7,
+        "opcion":"Iluminación industrial"
+    },
+    {
+        "numero": 8,
+        "opcion":"Fuerza y control industrial"
+    },
+    {
+        "numero": 9,
+        "opcion":"Instalación de bancos capacitores"
+    },
+    {
+        "numero": 10,
+        "opcion":"Instalación de bancos de baterías"
+    },
+    {
+        "numero": 11,
+        "opcion":"Constraccion eléctrica, industrial, comercial y residencial"
+    },
+    {
+        "numero": 12,
+        "opcion":"Mantenimiento a tableros"
+    },
+    {
+        "numero": 13,
+        "opcion":"Electricistas"
+    },
+    {
+        "numero": 14,
+        "opcion":"Instalación de charola, charofil y electroducto"
+    },
+    {
+        "numero": 15,
+        "opcion":"Instalación de tubería en pared gruesa y delgada"
+    },
+    {
+        "numero": 16,
+        "opcion":"Instalación de malla de tierras"
+    },
+    {
+        "numero": 17,
+        "opcion":"Instalación de sistema electrónico de tierras"
+    },
+    {
+        "numero": 18,
+        "opcion":"Sistema de pararrayos"
+    },
+    {
+        "numero": 19,
+        "opcion":"Instalación eléctricas industriales, residenciales y comerciales"
+    },
+    {
+        "numero": 20,
+        "opcion":"Iluminación profesional"
+    },
+    {
+        "numero": 21,
+        "opcion":"Centros de carga"
+    },
+    {
+        "numero": 22,
+        "opcion":"Instalación de contactos"
+    },
+    {
+        "numero": 23,
+        "opcion":"Ahorro de energía"
+    },
+    {
+        "numero": 24,
+        "opcion":"instalación de lámparas acomedidas"
+    },
+    {
+        "numero": 25,
+        "opcion":"Instalación de medidores"
+    },
+    {
+        "numero": 26,
+        "opcion":"Alto consumo eléctrico"
+    },
+    {
+        "numero": 27,
+        "opcion":"Cableado"
+    },
+    {
+        "numero": 28,
+        "opcion":"Falso contacto"
+    },
+    {
+        "numero": 29,
+        "opcion":"Cortos eléctricos"
+    }
+]
