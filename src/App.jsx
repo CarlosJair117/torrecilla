@@ -7,11 +7,11 @@ function App() {
 
 const router = createBrowserRouter([
   {
-    path:"/",
+    path:"/torrecilla/",
     element: <Home/>
   },
   {
-    path:"/contacto",
+    path:"/torrecilla/contacto",
     element: <Contacto/>
   }
 ])
