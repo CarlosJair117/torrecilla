@@ -17,7 +17,7 @@ const Principal = () => {
                     <div className="dropdown-content">
                         <a href="#quienesSomos">Quienes somos</a>
                         <a href="#clientes">Nuestros Clientes</a>
-                        <Link to={"/contacto"}>Contacto</Link>
+                        <Link to={"/torrecilla/contacto"}>Contacto</Link>
                         <div className="dropdown2 ">
                             <a href="#servicios" className="dropbtn2">Servicios</a>
                             {data.map(e => <Menu key={e.numero} element={e}/>)}
