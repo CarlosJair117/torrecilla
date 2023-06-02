@@ -14,8 +14,13 @@
 }
 
 .logo{
-    width: 20vw;
+    width: 50%;
+    height: 100%;
 }
+
+/* .boxLogo{
+  height: 70%;
+} */
 
 .containerPrincipal{
     background-color: #f8f8f8;
@@ -27,6 +32,9 @@ h1{
 
 .titulo-dos{
     font-size: 40px;
+}
+.titulo-tres{
+  font-size: 35px;
 }
 
 .fondo{

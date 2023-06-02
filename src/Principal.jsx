@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './assets/enchufe.png'
+import logo from './assets/logo.png'
 import './Principal.css'
 import data from './data/menu.json'
 import Menu from './Menu'
@@ -25,9 +25,8 @@ const Principal = () => {
                     </div>
                 </div>
             </div>
-            <div className="col">
-                <img src={logo} alt="logo" className='logo img-fluid'/>
-                <h1>TORRECILLA</h1>
+            <div className="col boxLogo">
+                <img src={logo} alt="logo" className='logo'/>
             </div>
             <div className='col'>
                 <svg className="waves" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink"
@@ -45,7 +44,7 @@ const Principal = () => {
             </div>
             <div className="col fondo ">
                 <h2 className='titulo-dos'>Servicios y soluciones</h2>
-                <h3 className='titulo-dos'>eléctricas</h3>
+                <h3 className='titulo-tres'>eléctricas</h3>
             </div>
         </div>
     </div>

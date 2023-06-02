@@ -10,3 +10,9 @@ p{
     color: white;
     font-weight: bold;
 }
+.boxWhats{
+    width: 15%;
+    position: fixed;
+    bottom: 5%;
+    left: 75%;
+}
